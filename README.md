@@ -1,3 +1,4 @@
+# 通过这个repo创建一个docker image，然后发布到AWS ECR，在AWS CodeBuild中启动这个image去运行rails test。
 # AWS CodeBuild curated Docker images
 
 This repository holds Dockerfiles of official AWS CodeBuild curated Docker images. Please refer to [the AWS CodeBuild User Guide](http://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref.html) for list of environments supported by AWS CodeBuild.
